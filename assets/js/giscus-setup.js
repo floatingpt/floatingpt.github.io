@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "floatingpt/jpm_3005.io",
+    "data-repo": "floatingpt/floatingpt.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
