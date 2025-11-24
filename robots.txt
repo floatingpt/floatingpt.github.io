@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://floating_pt.github.io/sitemap.xml
+Sitemap: https://floatingpt.github.io/sitemap.xml
