@@ -1,1 +1,0 @@
-Hello! My name is JP Maestas, and I am an Applied Mathematics and Computational Statistics student at University of California, Davis
